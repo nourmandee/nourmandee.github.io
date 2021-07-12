@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Web_1920_3);
+      }
+
+      .cls-2 {
+        fill: #ff00a1;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-Web_1920_3">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_3" data-name="Web 1920 – 3" class="cls-1">
+    <rect class="cls-3" width="1920" height="1080"/>
+    <g id="Component_4_1" data-name="Component 4 – 1" transform="translate(720 184)">
+      <ellipse id="Ellipse_1" data-name="Ellipse 1" class="cls-2" cx="907.5" cy="916.5" rx="907.5" ry="916.5"/>
+    </g>
+  </g>
+</svg>
