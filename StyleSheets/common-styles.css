@@ -34,6 +34,10 @@ body ,html{
     box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
 
+.navbar-brand{
+    font-weight: lighter !important;
+}
+
 .nav-item{
     text-align: center;
     margin-left: 0.5rem;
@@ -191,6 +195,10 @@ footer{
         justify-content: center;
         align-items: center;
     }
+    
+    .navbar-brand{
+        font-size: 20px !important;
+    }
 
     .nav-item{
         font-size: 18px;
@@ -200,11 +208,6 @@ footer{
     .nav-item a:hover{
         color: #FF734A !important;
         background: transparent;
-    }
-
-    .navbar-brand{
-        font-size: 20px !important;
-        font-weight: lighter !important;
     }
 
     #contact-us a{
